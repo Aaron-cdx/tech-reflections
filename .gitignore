@@ -1,14 +1,7 @@
-# IDE
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Obsidian
-.obsidian/
-.trash/
-
-# AI
-.claude/
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.webp
